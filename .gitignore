@@ -1,2 +1,9 @@
+# Node
+*.log
 node_modules
+
+# Webpack
 build
+
+# IntelliJ
+.idea
